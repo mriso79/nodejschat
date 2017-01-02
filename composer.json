@@ -1,0 +1,13 @@
+{
+    "name": "mriso_dev/nodejschat",
+    "description": "Realtime Node JS Chat with PHP/MySQL persistency",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcos Riso",
+            "email": "mrphp7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
